@@ -1,2 +1,2 @@
 # sky
-git operations
+git operations.
